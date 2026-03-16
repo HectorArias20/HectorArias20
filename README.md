@@ -1,3 +1,6 @@
+[![hector-arias-github-it-1.png](https://i.postimg.cc/CMXR7Znb/hector-arias-github-it-1.png)](https://postimg.cc/w35xTjVB)
+
+
 ## Hi, I'm Hector 
 
 [![GitHub](https://img.shields.io/badge/GitHub-hectorarias20-181717?style=flat-square&logo=github)](https://github.com/hectorarias20)
@@ -15,3 +18,4 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HectorArias20&size_weight=0.5&count_weight=0.5)
+
