@@ -21,25 +21,32 @@
 ## 🛠 Tech Stack  
 
 ### 💻 Development  
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)  
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)  
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)  
-![C#](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=c-sharp)  
-![.NET](https://img.shields.io/badge/.NET-darkblue?style=for-the-badge&logo=dotnet)  
+- HTML, CSS, JavaScript  
+- React (UI development and components)  
+- Node.js (basic backend and APIs)  
+- C# / .NET (desktop and backend applications)  
+- REST API integration  
 
 ### 🗄 Databases  
-![SQL Server](https://img.shields.io/badge/SQL%20Server-red?style=for-the-badge&logo=microsoft-sql-server)  
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)  
+- SQL Server (queries, joins, stored procedures)  
+- MySQL  
+- Data validation and data consistency  
+- Query optimization (basic)  
+- Database integration with applications  
 
 ### 🔧 IT & Infrastructure  
-![Networking](https://img.shields.io/badge/Networking-grey?style=for-the-badge)  
-![Troubleshooting](https://img.shields.io/badge/Troubleshooting-orange?style=for-the-badge)  
-![Smart Meters](https://img.shields.io/badge/Smart%20Meters-lightgrey?style=for-the-badge)  
+- Network fundamentals (IP addressing, routing, connectivity)  
+- Troubleshooting network and system issues  
+- Configuration and monitoring of devices (CGRs, smart meters)  
+- RF/PLC communication systems  
+- System diagnostics and technical support  
+- Device connectivity and communication analysis  
 
 ### 🧰 Tools  
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)  
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)  
-![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)  
+- Git & GitHub  
+- Postman (API testing)  
+- SQL Server Management Studio (SSMS)  
+- Excel (data analysis)  
 
 
 ---
